@@ -1,1 +1,1 @@
-# golang-base
+# Google Go Language Base Customization
